@@ -33,7 +33,7 @@ Each project demonstrates my progress and learning in web development.
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| Portfolio Website | Personal portfolio website | https://your-project-link.com |
+| Portfolio Website | Personal portfolio website |  https://pariahmadi-2.github.io/Portfolio-Project/ |
 
 ---
 
@@ -42,7 +42,7 @@ Each project demonstrates my progress and learning in web development.
 You can view the live version of my portfolio here:
 
 🔗 **Live Website:**  
-https://your-project-link.com
+ https://pariahmadi-2.github.io/Portfolio-Project/
 
 ---
 
